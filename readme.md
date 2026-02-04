@@ -1,4 +1,4 @@
-# 🤖 LSTM Text Generator (Industry-Standard)
+# 🤖 LSTM Text Generator 
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)  
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
