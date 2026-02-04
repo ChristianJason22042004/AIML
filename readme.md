@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)  
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
 [![GitHub license](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
-[![Issues](https://img.shields.io/github/issues/christianjason/LSTM-Text-Generator)](https://github.com/christianjason/LSTM-Text-Generator/issues)  
 
 > Generate human-like text using LSTM & Bidirectional LSTM models. CPU-friendly version included.
 
@@ -96,20 +95,24 @@ Introduce temperature sampling or top-k/top-p sampling for more varied output
 ---
 
 ## 📈 Example Output
+```
 Seed: "romeo and juliet"
 Generated: "romeo and juliet went to the market and then he said the king will meet"
-
+```
 
 Output depends on dataset and trained model
 
 
 ---
 
-## 📚 References
 
-TensorFlow LSTM Guide
+## 📚 Useful References
 
-Keras Tokenizer Documentation
+🤖 TensorFlow LSTM Guide
+ – Official guide to using LSTM layers in TensorFlow/Keras.
+
+📝 Keras Tokenizer Documentation
+ – Learn how to preprocess text using Keras Tokenizer.
 
 
 ---
